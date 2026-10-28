@@ -1,0 +1,4 @@
+interface:
+  display_name: Cyber Brain
+  short_description: Turn messy conversations into selective personal memory
+  default_prompt: Extract only what is worth remembering from this transcript. Preserve uncertainty, detect duplicates or conflicts, and do not invent missing details.
